@@ -1,0 +1,37 @@
+Hello everyone!
+Welcome to the first webinar conducted by the Google Developers Student Club of NIT Delhi
+
+Before we start, I'd like to thank the faculties incharge of our club , 
+Dr Chandra Prakash of the  CSE Branch and Dr Manoj Kumavat of the EEE branch 
+for guiding us and providing the opportunity to go forth with this endeavor.
+
+The Google Developer Student Club program or (GDSC for short) is a program for university students, designed to help them build their technical skills and knowledge and ultimately apply these skills
+practically to build solutions and solve real world problems for local businesses and communities , It is open to any student, ranging from novice developers who are just starting, 
+to advanced developers who want to further their skills.
+It is a space for students to learn and collaborate in a peer to peer learning environment. 
+
+The GDSC will host events regarding the fields of web development,app development,google cloud platform , machine learning and more. 
+The aim of the club is to help students to bridge the gap between theory and practice, along with this - the students can build their professional
+and personal networks and get access to google developer resources.
+
+Now I'd like to introduce the members of the club officially
+
+Firstly we have the project management team led by Rishikesh Anand ,
+then we have the creative team led by Jeremy Joseph ,
+the Marketing team is led by Ritik Mehindaratta and 
+the Event manager of the club is Karthik Nair.
+
+Finally we have the General Secretary and GDSC Lead , A P S Manideep. 
+
+Today's webinar topic is the Basics of Machine Learning, as you all know it is one of the fastest growing fields in computer science as nowadays data is the driving force of business 
+and machine learning is the key to unlocking the value of corporate and customer data and enacting decisions that keep a company ahead of the competition.
+
+On that note i would like to introduce our first speaker today, *insert name* I pass the floor to you.
+
+
+
+
+
+
+
+
